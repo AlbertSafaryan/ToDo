@@ -1,0 +1,11 @@
+.MyModal{
+  position: absolute; 
+  left: 0; 
+  right: 0; 
+  margin-left: auto; 
+  margin-right: auto; 
+  z-index:10;
+  width:20rem;
+    background-color: antiquewhite;
+}
+
